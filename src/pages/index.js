@@ -47,6 +47,7 @@ class IndexPage extends React.Component {
           <br />
           <br />
           <br />
+          <br />
           <h2>Localization</h2>
           <p>
             The <code>gatsby-source-contentful</code> plugin offers full support
